@@ -1,4 +1,5 @@
 # Acer-Swift314-55-OC-hackintosh\
+OC0.6.7
 电脑配置:\
 CPU:i5-8265U\
 显卡:UHD620\
@@ -12,6 +13,7 @@ CPU睿频正常(需doc命令修改bios以关闭CFG-lock)\
 网卡驱动正常(Airportitlwm)\
 USB定制\
 触摸板正常\
+电池显示正常(比windows下多4%的电量)\
 \
 无法驱动:\
-内置麦克风、耳机麦\
+内置麦克风、耳机麦
