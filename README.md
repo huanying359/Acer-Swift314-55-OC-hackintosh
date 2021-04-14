@@ -1,5 +1,7 @@
 # Acer-Swift314-55-OC-hackintosh\
-OC0.6.7
+OC0.6.7\
+2021.01.14\
+\
 电脑配置:\
 CPU:i5-8265U\
 显卡:UHD620\
