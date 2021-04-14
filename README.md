@@ -1,5 +1,6 @@
 # Acer-Swift314-55-OC-hackintosh\
 OC0.6.7\
+Mac OS 10.15.7\
 2021.01.14\
 \
 电脑配置:\
